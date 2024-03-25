@@ -20,6 +20,6 @@ Please store the data in a database of your choice (can use Docker) and create a
         * leg_duration
 
 * GET /routes/{route_id}
-    * Returns a GeoJSON object with the route points by route id
+    * Returns a GeoJSON object with the route points
 
 PS. Please publish the solution to your GitHub and invite us to review it.
